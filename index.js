@@ -7,6 +7,6 @@ module.exports = {
         'inlineMap': true
       })
     }
-    return null
+    return src
   }
 }
